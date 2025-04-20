@@ -1,16 +1,23 @@
-# 🎬 Netflix Movies & TV Shows Clustering  
-_Unsupervised Learning Project | Data Science & Machine Learning_
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="100" />
+  <h1 align="center">Netflix Movies & TV Shows Clustering</h1>
+  <p align="center"><em>🔍 Unsupervised Machine Learning Project using Netflix Dataset</em></p>
+</p>
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-ff69b4)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3.10-blue.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=flat-square" />
+</p>
 
 ---
 
 ## 📌 Overview
 
-This project uses **unsupervised machine learning** to cluster Netflix titles based on key features like genre, type, duration, and release year. The goal is to uncover hidden patterns and group similar content without using predefined labels.
+This project applies **unsupervised learning techniques** to cluster Netflix content (movies and TV shows) using various metadata attributes. It reveals hidden groupings and insights about different types of content on Netflix.
+
+---
 
 ### 🔍 Problem Statement
 
@@ -24,6 +31,18 @@ Netflix has a vast library of movies and TV shows. Can we use clustering to grou
 - 🧾 Format: CSV
 - 📈 Size: ~8000 records
 - 🎯 Features: Title, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre (listed_in), Type
+
+---
+
+## 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FB9820?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+</p>
 
 ---
 
