@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=flat-square" />
 </p>
 
-
-![logo](https://github.com/Ayush245101/Netflix-Movies-TV-shows-Clustering--Unsupervised-Learning/logo.jpg)
-
 ---
 
 ## 📌 Overview
