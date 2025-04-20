@@ -28,7 +28,8 @@ Netflix has a vast library of movies and TV shows. Can we use clustering to grou
 
 ## 📊 Dataset
 
-- 📂 Source: [Netflix Dataset on GDrive]((https://drive.google.com/file/d/1kyC9xT_VJPTyRf76nBIsLXP1lafTy7f3/view?usp=sharing))
+- 📂 Source: [Netflix Dataset on GDrive]((https://github.com/Ayush245101/Netflix-Movies-TV-shows-Clustering--Unsupervised-Learning
+/NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv))
 - 🧾 Format: CSV
 - 📈 Size: ~8000 records
 - 🎯 Features: Title, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre (listed_in), Type
