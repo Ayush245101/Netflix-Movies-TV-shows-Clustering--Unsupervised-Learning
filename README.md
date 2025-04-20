@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="100" />
   <h1 align="center">Netflix Movies & TV Shows Clustering</h1>
@@ -10,6 +11,9 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=flat-square" />
 </p>
+
+
+![logo](https://github.com/Ayush245101/Netflix-Movies-TV-shows-Clustering--Unsupervised-Learning/logo.jpg)
 
 ---
 
@@ -64,11 +68,16 @@ Netflix has a vast library of movies and TV shows. Can we use clustering to grou
 |------------------------|----------------|------------------|
 | KMeans                 | k=4            | 0.45             |
 | Agglomerative Clustering | linkage='ward' | 0.43           |
-| DBSCAN                 | eps=0.5, min_samples=5 | ~0.31      |
+| DBSCAN                 | eps=0.3, min_samples=9 | ~0.5      |
 
 📌 *KMeans* performed best in terms of clustering compactness and separation.
 
 ---
 
-## 📁 Folder Structure
+
+👀 **Explore the full project on GitHub**:  
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-black)](https://github.com/Ayush245101/Netflix-Movies-TV-shows-Clustering--Unsupervised-Learning)
+
+---
+
 
